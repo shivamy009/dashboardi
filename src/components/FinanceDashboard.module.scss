@@ -1,0 +1,40 @@
+.financeDashboard {
+  @apply bg-white p-6 rounded-lg shadow-md;
+}
+
+.searchContainer {
+  @apply mb-4 flex space-x-4;
+}
+
+.searchInput {
+  @apply w-full p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+.timeRangeSelect {
+  @apply p-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+.loader {
+  @apply text-center text-gray-500;
+}
+
+.error {
+  @apply text-red-500 mb-4;
+}
+
+.stockInfo {
+  @apply mb-4;
+  h2 {
+    @apply text-xl font-semibold;
+  }
+  p {
+    @apply text-gray-700;
+  }
+}
+
+.stockChart {
+  @apply mt-4;
+  h3 {
+    @apply text-lg font-semibold mb-2;
+  }
+}
