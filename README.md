@@ -22,7 +22,7 @@ Husky 8.0.3 & Lint-Staged 15.0.2: For pre-commit hooks to enforce linting and fo
 
 Installation Instructions
 
-Clone the Repository:git clone https://github.com/your-username/pgagi-analytics-pdf.git
+Clone the Repository:git clone https://github.com/shivamy009/dashboardi.git
 cd pgagi-analytics-pdf
 
 
