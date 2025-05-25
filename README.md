@@ -136,5 +136,5 @@ Testing: Unit tests cover all dashboards, with mocks for API responses, ensuring
 Limitations: Due to the 48-hour deadline, advanced features like city/stock autocomplete (e.g., GeoDB Cities API) and complex animations (e.g., Three.js) were omitted. These can be added for future iterations.
 Submission: The GitHub repository link will be submitted by [insert your submission time, e.g., 11:25 AM IST, May 26, 2025], within the 48-hour deadline.
 
-For any issues or further enhancements, contact [your contact info or GitHub username].
-GitHub Repository: [Insert your GitHub repository URL]
+For any issues or further enhancements, contact - shivamy0345@gmail.com
+GitHub Repository:  https://github.com/shivamy009/dashboardi
